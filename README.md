@@ -16,6 +16,8 @@ Code files or small modules and the like that show example code for given concep
 
 Some of my notes work best when viewed alongside interactive code examples and some do not need that. This folder contains interactive Jupyter notebooks so that I can have live code examples next to my notes. This folder contains the majority of my notes.
 
+Check out the [quick guide](docs/using-jupyter-notebooks.md) before using the notebooks for the first time. This will help you get setup and show you how to work with them.
+
 ## Installing Python
 
 There are numerous ways to install Python on your computer. This [doc](docs/installing-python.md) is the way the I (currently) do this myself.
