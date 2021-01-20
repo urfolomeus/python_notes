@@ -1,2 +1,5 @@
 # ignore virtual envs
 **/.venv
+
+# ignore Jupyter Notebook artifacts
+notebooks/.ipynb_checkpoints
