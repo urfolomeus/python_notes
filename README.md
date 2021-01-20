@@ -20,6 +20,10 @@ Some of my notes work best when viewed alongside interactive code examples and s
 
 There are numerous ways to install Python on your computer. This [doc](docs/installing-python.md) is the way the I (currently) do this myself.
 
+## Python 2 vs Python 3
+
+One of the first things to wrap our heads around is the difference between Python 2 and Python 3, why we need to know and which we should use. See [the doc](docs/python-major-versions.md) for more information.
+
 ## Awesome Python resources
 
 Links to Python projects, libraries, frameworks, etc
