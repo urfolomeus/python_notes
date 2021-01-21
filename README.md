@@ -14,9 +14,11 @@ Code files or small modules and the like that show example code for given concep
 
 ### Notebooks
 
-Some of my notes work best when viewed alongside interactive code examples and some do not need that. This folder contains interactive Jupyter notebooks so that I can have live code examples next to my notes. This folder contains the majority of my notes.
+Some of my notes work best when viewed alongside interactive code examples and some do not need that. This folder contains interactive Jupyter notebooks so that I can have live code examples next to my notes.
 
 Check out the [quick guide](docs/using-jupyter-notebooks.md) before using the notebooks for the first time. This will help you get setup and show you how to work with them.
+
+**WARNING** at the time of writing, if you do not open VSCode in the _/notebooks_ folder before using Notebooks then sometimes changes saved to the file are lost when the file is closed. In other situations the file changes were saved, but GitLens did not see those changes.
 
 ## Installing Python
 
