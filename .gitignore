@@ -1,5 +1,6 @@
 # ignore virtual envs
 **/.venv
 
-# ignore Jupyter Notebook artifacts
+# ignore temporary artifacts
+**/__pycache__
 notebooks/.ipynb_checkpoints
